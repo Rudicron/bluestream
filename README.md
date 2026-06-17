@@ -1,3 +1,18 @@
+Fork of Bluestream, which was mostly abandoned after bsky set up their own rss feeds, but those feeds are dogshit.
+
+### plans:  
+implement display of  
+-  video
+-  gifs
+-  image carousel
+
+Add Dockerfile (build command: ```docker build -t bluestream .```)
+
+
+
+Original README.md follows.
+---
+
 > [!IMPORTANT]
 >
 > Thank you for accessing this project.
