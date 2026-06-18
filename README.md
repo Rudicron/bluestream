@@ -1,6 +1,6 @@
 Fork of Bluestream, which was mostly abandoned after bsky set up their own rss feeds, but those feeds are dogshit.
 
-### plans:  
+### goals:  
 implement display of  
 -  video
 -  gifs
